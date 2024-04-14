@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I am Arlen Diego. 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisperil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whisperil&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **whisperil/whisperil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
