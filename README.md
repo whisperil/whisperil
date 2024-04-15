@@ -1,7 +1,7 @@
 ### Hello World! 👋
 ### I am a fresh man in Github...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisperil&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whisperil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whisperil&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
 
