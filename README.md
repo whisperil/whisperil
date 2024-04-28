@@ -1,5 +1,5 @@
-# Hello World! 👋 I am a fresh man in Github...
-### I’m currently engaged in the research of digital signal processing for optical communication systems. If you are interested in some of these ideas, please feel free to leave me a comment.
+# Hello World! 👋
+#### I’m currently engaged in the research of digital signal processing for optical communication systems. If you are interested in some of these ideas, please feel free to leave me a comment.
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
 
 
