@@ -2,7 +2,6 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whisperil&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
