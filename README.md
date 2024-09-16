@@ -1,4 +1,4 @@
-# Hello this World! 👋
+# Hello, this World! 👋
 ### 🔭 Coherent Optical fiber communcation, free space optical communication, digital signal processing...
 ### 🤔 Ohhhh! 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
