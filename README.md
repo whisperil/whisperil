@@ -1,5 +1,4 @@
 ## Hello, World! 👋
-### 🔭 Coherent Optical fiber communcation, free space optical communication, digital signal processing...
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=whisperil" /> </div>
 
