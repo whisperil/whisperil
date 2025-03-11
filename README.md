@@ -3,7 +3,8 @@
 
 
 <table width="100%" align="center">
-  <tr>
+  <!--
+    <tr>
     <td><a href="https://github.com/whisperil">
       <picture>
         <source
@@ -27,6 +28,7 @@
       </picture>
     </a></td>
   </tr>
+  -->
   <tr>
     <td colspan="2" align="center"><a href="https://github.com/whisperil">
       <picture>
