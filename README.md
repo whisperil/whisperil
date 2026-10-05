@@ -8,7 +8,7 @@
 
 <h3 align="center">🛠 Research Skills & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Vector_Light_Beams-FF6F61?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasurface-FF6F61?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Optical_Communication-4CAF50?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Digital_Signal_Processing-FFC107?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-Purple?style=for-the-badge&logo=matlab&logoColor=white"/>
