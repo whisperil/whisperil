@@ -1,6 +1,6 @@
 <h1 align="center">🌌 Arlen Diego</h1>
 <p align="center">
-  Researcher in Optical Fiber Communication & Free-Space Optics.
+  Researcher in Optical Communication & Metasurface.
   Exploring advanced vector light fields, next-gen optical communication systems
 </p>
 
